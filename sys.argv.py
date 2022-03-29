@@ -1,9 +1,4 @@
-import sys
-
-
-
-def main():
-    '''
+'''
     Project Name: Library of Congress
     Author: Peter Williams
     Due Date: 03/28/2022
@@ -18,6 +13,11 @@ def main():
         - novel_summary.txt (file containing summary info about the provided text)
         - novel_text.txt (file containing the ordred texts for each book code provided)
     '''
+
+import sys
+
+
+def main():
 
     # handling sys.argv
 
